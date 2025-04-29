@@ -1,0 +1,153 @@
+[
+	{
+	  "event": "Seeing a Balloon",
+	  "description": "You see a bright, colorful balloon for the first time.",
+	  "consequence": "You are mesmerized and try to reach for it."
+	},
+	{
+	  "event": "Playing with Blocks",
+	  "description": "You play with a set of colorful building blocks.",
+	  "consequence": "You have fun stacking and knocking them over."
+	},
+	{
+	  "event": "Watching Bubbles",
+	  "description": "Someone blows bubbles in front of you.",
+	  "consequence": "You watch in amazement and try to catch them."
+	},
+	{
+	  "event": "Hearing Music",
+	  "description": "You hear some music playing nearby.",
+	  "consequence": "You start to sway and clap your hands to the rhythm."
+	},
+	{
+	  "event": "Playing Peekaboo",
+	  "description": "Someone plays peekaboo with you.",
+	  "consequence": "You laugh and giggle every time they reappear."
+	},
+	{
+	  "event": "Exploring with Toys",
+	  "description": "You explore a new set of toys.",
+	  "consequence": "You enjoy touching and examining each one."
+	},
+	{
+	  "event": "Watching a Puppy",
+	  "description": "You see a playful puppy running around.",
+	  "consequence": "You are fascinated and watch its every move."
+	},
+	{
+	  "event": "Tasting New Foods",
+	  "description": "You try some new solid foods.",
+	  "consequence": "You make funny faces as you taste different flavors."
+	},
+	{
+	  "event": "Seeing Your Reflection",
+	  "description": "You see yourself in a mirror.",
+	  "consequence": "You are curious and touch the mirror, trying to understand it."
+	},
+	{
+	  "event": "Feeling Different Textures",
+	  "description": "You touch various objects with different textures.",
+	  "consequence": "You explore how each texture feels with your hands."
+	},
+	{
+	  "event": "Playing with a Ball",
+	  "description": "You roll a soft ball across the floor.",
+	  "consequence": "You crawl after it and try to catch it."
+	},
+	{
+	  "event": "Listening to a Rattle",
+	  "description": "You shake a toy rattle and listen to the sound it makes.",
+	  "consequence": "You smile and shake it again, enjoying the noise."
+	},
+	{
+	  "event": "Exploring with a Spoon",
+	  "description": "You play with a plastic spoon.",
+	  "consequence": "You examine it closely and chew on it."
+	},
+	{
+	  "event": "Touching a Soft Blanket",
+	  "description": "You feel the softness of a cozy blanket.",
+	  "consequence": "You snuggle into it and feel comforted."
+	},
+	{
+	  "event": "Watching a Mobile",
+	  "description": "You watch a mobile hanging above your crib.",
+	  "consequence": "You are captivated by the moving shapes and colors."
+	},
+	{
+	  "event": "Playing with Water",
+	  "description": "You splash around in a shallow basin of water.",
+	  "consequence": "You enjoy the cool sensation and the splashing sounds."
+	},
+	{
+	  "event": "Feeling Grass",
+	  "description": "You sit on the grass for the first time.",
+	  "consequence": "You are intrigued by the texture and try to grab it."
+	},
+	{
+	  "event": "Listening to a Story",
+	  "description": "You listen to a short, simple story.",
+	  "consequence": "You are soothed by the sound of the voice reading to you."
+	},
+	{
+	  "event": "Watching Birds",
+	  "description": "You see birds flying and chirping outside.",
+	  "consequence": "You watch them intently and try to imitate their sounds."
+	},
+	{
+	  "event": "Playing with a Stuffed Animal",
+	  "description": "You cuddle and play with a soft stuffed animal.",
+	  "consequence": "You feel comforted and enjoy the softness."
+	},
+	{
+	  "event": "Crawling Around",
+	  "description": "You crawl around exploring the space around you.",
+	  "consequence": "You discover new things and develop your motor skills."
+	},
+	{
+	  "event": "Feeling Sand",
+	  "description": "You touch sand for the first time.",
+	  "consequence": "You are curious about the texture and try to grab handfuls."
+	},
+	{
+	  "event": "Watching Shadows",
+	  "description": "You notice shadows moving on the wall.",
+	  "consequence": "You are intrigued and try to catch them."
+	},
+	{
+	  "event": "Playing with a Spinning Top",
+	  "description": "You watch a spinning top twirl around.",
+	  "consequence": "You are fascinated by the motion and try to touch it."
+	},
+	{
+	  "event": "Feeling a Breeze",
+	  "description": "You feel a gentle breeze on your face.",
+	  "consequence": "You smile and enjoy the cool sensation."
+	},
+	{
+	  "event": "Looking at Pictures",
+	  "description": "You look at pictures in a baby book.",
+	  "consequence": "You are curious about the images and try to touch them."
+	},
+	{
+	  "event": "Playing with Keys",
+	  "description": "You play with a set of plastic toy keys.",
+	  "consequence": "You enjoy the jingling sound and the different shapes."
+	},
+	{
+	  "event": "Listening to Nature Sounds",
+	  "description": "You listen to recordings of nature sounds.",
+	  "consequence": "You are calmed by the soothing noises."
+	},
+	{
+	  "event": "Looking at Bright Colors",
+	  "description": "You look at a toy with bright, vivid colors.",
+	  "consequence": "You are attracted to the colors and try to grab the toy."
+	},
+	{
+	  "event": "Playing with a Mirror",
+	  "description": "You have a baby-safe mirror to play with.",
+	  "consequence": "You are entertained by your own reflection and make funny faces."
+	}
+      ]
+      
